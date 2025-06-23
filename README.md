@@ -1,6 +1,6 @@
 # Data Analysis and Visualization Project
 
-This project analyzes two datasets related to historical financial data, a fear and greed index, and an equality table. The code performs data loading, exploration, cleaning, analysis, and visualization to uncover insights and relationships within the data.
+This project analyzes two datasets related to historical financial data, a fear and greed index. The code performs data loading, exploration, cleaning, analysis, and visualization to uncover insights and relationships within the data.
 
 ## Project Structure
 
@@ -33,7 +33,7 @@ These libraries are commonly available in a standard Python environment, especia
 
 ## Usage
 
-1.  Ensure you have the required datasets (`historical_data.csv`, `fear_greed_index.csv`, `Task 5 Equality Table.xlsx`) in the same directory as the notebook or provide the correct paths.
+1.  Ensure you have the required datasets (`historical_data.csv`, `fear_greed_index.csv`) in the same directory as the notebook or provide the correct paths.
 2.  Run the notebook cells sequentially.
 
 The notebook will output information during the exploration and cleaning phases and display the generated visualizations at the end.
